@@ -66,6 +66,16 @@ p {
   margin: 5% 3% 5% 0;
 }
 
+.btn-primary {
+  border-color: #8b16f7;
+  background-color: #8b16f7;
+}
+
+.btn-primary:hover {
+  background-color: #c485ff;
+  border-color: #c485ff;
+}
+
 
 /* Features */
 
