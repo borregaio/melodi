@@ -75,6 +75,10 @@ p {
   position: relative;
 }
 
+.feature {
+  font-weight: 700;
+}
+
 .table {
   background-color: #fff;
 }
