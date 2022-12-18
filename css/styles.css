@@ -162,7 +162,7 @@ p {
 }
 
 
-@media only screen and (min-width:320px) and (max-width:1024px) {
+@media only screen and (min-width:480px) and (max-width:1024px) {
 
   #title {
     text-align: center;
@@ -186,8 +186,23 @@ p {
     font-size: 40px;
   }
 
+  h4 {
+    font-size: 30px;
+  }
+
   p {
     font-size: 20px;
   }
 
+  li {
+    font-size: 20px;
+  }
+
+  .testimonial-image {
+    width: 20%;
+  }
+
+  .press-logo {
+    width: 30%;
+  }
 }
